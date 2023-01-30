@@ -4,5 +4,7 @@
 3. Once the installation has finished, SWI-Prolog should now be accessible.
 ![Prolog App Showcase](docs/prologAppShowcase.jpg)
 
+# Getting started
+1. TBD and the group members will probably have to begin [here](https://www.swi-prolog.org/pldoc/man?section=quickstart) or other guides.
 ### References
 1. [Installing SWI-Prolog](https://wwu-pi.github.io/tutorials/lectures/lsp/010_install_swi_prolog.html).
